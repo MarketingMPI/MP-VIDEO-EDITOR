@@ -1,0 +1,26 @@
+# nada de midia pesada nem modelos no repositorio
+modelos/
+*.bin
+*.rnnn
+*.mp4
+*.mov
+*.MOV
+*.mkv
+*.wav
+*.mp3
+*.m4a
+*.jpg
+*.png
+*.srt
+*.ass
+# fontes com licenca propria (Campton)
+*.otf
+*.ttf
+out/
+frames/
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
